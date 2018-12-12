@@ -15,15 +15,10 @@ Platform:
 
 npm manifest: 
   {
-    "name": "MERN-Heroku-Starter-Kit",
+    "name": "mern-heroku",
     "version": "1.0.0",
-    "description": "MERN Heroku Starter Kit",
+    "description": "MERN Heroku",
     "main": "server/index.js",
-    "author": {
-      "name": "Nataliia Baikina",
-      "email": "natalinyweb@hotmail.com",
-      "url": "https://github.com/Naterra"
-    },
     "engines": {
       "node": "9.0.0",
       "npm": "5.5.1"
@@ -45,6 +40,7 @@ npm manifest:
       "babel-preset-stage-1": "^6.24.1",
       "body-parser": "^1.18.2",
       "cors": "^2.8.4",
+      "dotenv": "^6.2.0",
       "express": "^4.16.2",
       "mongoose": "^4.13.6"
     },
