@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn
+  /usr/local/bin/node /usr/local/bin/yarn add react-router-dom axios
 
 PATH: 
   /main/.npm-global/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/main/.npm-global/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/main/Library/Android/sdk/tools:/main/Library/Android/sdk/platform-tools:/main/.rvm/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/main/Library/Android/sdk/tools:/main/Library/Android/sdk/platform-tools
