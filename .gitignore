@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+server_dist
+
+#developement
+/config/dev.js
+/config/dev.dist.js
+/config/prod.js
+/config/config.json
+.env
+
+npm-debug.log
+.DS_Store
